@@ -1,7 +1,7 @@
 [under construction based on Etherpad doc]
 
 
-# Open data and reproducibility workshop
+# Workshop *Open data and reproducibility v2.1*
 ## An introduction to R Markdown, dashboards and Binder
 ### CarpentryCon@Home 2020
 
