@@ -1,5 +1,14 @@
-# CarpentryCon-2020-workshop
+[under construction based on Etherpad doc]
 
+
+# Open data and reproducibility workshop
+## An introduction to R Markdown, dashboards and Binder
+### CarpentryCon@Home 2020
+
+### Pablo Bernabeu and Florencia D'Andrea 
+p.bernabeu@lancaster.ac.uk  &nbsp; | &nbsp;  florencia.dandrea@gmail.com 
+
+<br>
 
 ### Prior information 
 
