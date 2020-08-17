@@ -81,7 +81,7 @@ RStudio Cloud project (same as above): https://rstudio.cloud/project/1520963
  Materials 
 
  1.  R Markdown doc: https://rpubs.com/pcbernabeu/R-Markdown-Madison-parks 
- Code: https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/R%20Markdown/R%20Markdown%20amidst%20Madison%20parks.Rmd 
+ Code: https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/R%20Markdown/R-Markdown-amidst-Madison-parks.Rmd
 
  2.  Flexdashboard: https://rpubs.com/pcbernabeu/Butterfly-species-richness-in-LA 
  Code: https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/Dashboards/Flexdashboard/Butterfly-species-richness-in-LA.Rmd 
