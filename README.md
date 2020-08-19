@@ -3,7 +3,7 @@
 
 # Workshop *Open data and reproducibility v2.1*
 ## An introduction to R Markdown, dashboards and Binder
-### CarpentryCon@Home 2020
+### [CarpentryCon@Home 2020](https://2020.carpentrycon.org/schedule/)
 
 ### Pablo Bernabeu and Florencia D'Andrea 
 p.bernabeu@lancaster.ac.uk  &nbsp; | &nbsp;  florencia.dandrea@gmail.com 
