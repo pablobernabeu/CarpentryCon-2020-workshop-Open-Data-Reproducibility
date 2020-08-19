@@ -1,4 +1,4 @@
-[this has been copied from the Etherpad doc and is now being formatted for Markdown]
+[this has been copied from the Etherpad doc and is being formatted for Markdown]
 
 
 # Workshop *Open data and reproducibility v2.1*
