@@ -21,8 +21,7 @@ Please sign up to RStudio Cloud (https://rstudio.cloud/), which may become usefu
  having some of your own data and R code ready, preferably in a Github repository. 
 
 
- Content 
- For definitive information, please check this programme right before the workshop. 
+### :movie_camera: &nbsp; [Watch the workshop](https://www.youtube.com/watch?v=wZsPD7CgJC0)
 
  Introduction  |  5 min 
 
