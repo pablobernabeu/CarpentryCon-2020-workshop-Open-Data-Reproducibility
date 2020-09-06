@@ -141,7 +141,7 @@ Transform the R Markdown document into a Flexdashboard; then, vice versa, transf
 
 Add Shiny user inputs to a Flexdashboard  (https://rmarkdown.rstudio.com/flexdashboard/shiny.html). Find out about Shiny and user inputs in the following section! 
 
-
+<br>
 
 ## Shiny
 
@@ -175,6 +175,7 @@ shiny_ex1
 shiny_ex2
 shiny_ex3
 
+<br>
 
 ## Binder 🗂
 
