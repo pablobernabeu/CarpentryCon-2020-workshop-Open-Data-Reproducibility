@@ -178,7 +178,7 @@ shiny_ex3
 
 <br>
 
-## Binder 🗂
+## Binder
 
 Did you know that you can enable public access to your data and analysis code in RStudio, on a simple internet browser? There are various options for this, and one of the most accessible ones is Binder (https://mybinder.org). We’ll look at Binder’s requirements and possibilities. 
 
