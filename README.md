@@ -33,6 +33,7 @@ Please sign up to RStudio Cloud (https://rstudio.cloud/), which may become usefu
  - R Markdown and Flexdashboard: https://rstudio.cloud/project/1520963
  - Shiny: https://rstudio.cloud/project/1514617
 
+<br>
 
 ## R Markdown
 
