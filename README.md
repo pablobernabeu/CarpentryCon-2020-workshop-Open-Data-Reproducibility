@@ -51,6 +51,7 @@ Please sign up to RStudio Cloud (https://rstudio.cloud/), which may become usefu
 ### HTML, CSS
 - background: https://html.com/ 
 - example and code demo: https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility/tree/master/R%20Markdown 
+- CSS Tutorial: https://www.scaler.com/topics/css/
 
 ### Running code and cross-referencing
 - background: https://rmarkdown.rstudio.com/lesson-4.html, https://rmarkdown.rstudio.com/lesson-3.html 
